@@ -5,7 +5,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@AnonDevilMY]**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@AnonDevilMY] (https://t.me/SanzuCodingMY)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
